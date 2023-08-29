@@ -1,0 +1,22 @@
+.form {
+    padding: 30rem 50rem;
+    background-color: white;
+    border-radius: 5rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 23rem;
+
+    label {
+        font-size: 17rem;
+        display: flex;
+        flex-direction: column;
+        gap: 7rem;
+
+        input {
+            border: 1px solid gray;
+            padding: 3rem 8rem;
+            outline: none;
+        }
+    }
+}

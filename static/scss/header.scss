@@ -1,0 +1,18 @@
+.header {
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 12rem 0;
+    margin-bottom: 60rem;
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .item {
+        font-size: 18rem;
+        font-weight: 500;
+        color: rgb(30, 30, 30);
+        text-decoration: none;
+    }
+}
